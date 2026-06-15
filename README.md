@@ -1,3 +1,4 @@
+*Archived*
 # Sample Queries for stored in BigQuery GA4 data
 
 ## Folders: 
